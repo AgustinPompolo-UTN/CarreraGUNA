@@ -1,0 +1,173 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "Guna.UI2.WinForms/2.0.2.4": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Guna.UI2.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Guna.UI2.dll": {}
+        }
+      },
+      "CarrerasBackend/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/CarrerasBackend.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CarrerasBackend.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win": {
+      "Guna.UI2.WinForms/2.0.2.4": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Guna.UI2.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Guna.UI2.dll": {}
+        }
+      },
+      "CarrerasBackend/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/CarrerasBackend.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CarrerasBackend.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x64": {
+      "Guna.UI2.WinForms/2.0.2.4": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Guna.UI2.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Guna.UI2.dll": {}
+        }
+      },
+      "CarrerasBackend/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/CarrerasBackend.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CarrerasBackend.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x86": {
+      "Guna.UI2.WinForms/2.0.2.4": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Guna.UI2.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Guna.UI2.dll": {}
+        }
+      },
+      "CarrerasBackend/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/CarrerasBackend.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CarrerasBackend.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Guna.UI2.WinForms/2.0.2.4": {
+      "sha512": "UE3F7YcMAHl6318Mds9iHt91C/bWmsDAoTgAXl2g4gxOIaiZHPC+eqgtzvBmEcj6sHSx4T3SDUJijbj7pFpM0Q==",
+      "type": "package",
+      "path": "guna.ui2.winforms/2.0.2.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "guna.ui2.winforms.2.0.2.4.nupkg.sha512",
+        "guna.ui2.winforms.nuspec",
+        "icon.png",
+        "lib/net40/Guna.UI2.dll"
+      ]
+    },
+    "CarrerasBackend/1.0.0": {
+      "type": "project",
+      "path": "../CarrerasBackend/CarrerasBackend.csproj",
+      "msbuildProject": "../CarrerasBackend/CarrerasBackend.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "CarrerasBackend >= 1.0.0",
+      "Guna.UI2.WinForms >= 2.0.2.4"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Agustin\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Agustin\\source\\repos\\CarreraGUNA\\CarrerasPy\\CarrerasFrontend.csproj",
+      "projectName": "CarrerasFrontend",
+      "projectPath": "C:\\Users\\Agustin\\source\\repos\\CarreraGUNA\\CarrerasPy\\CarrerasFrontend.csproj",
+      "packagesPath": "C:\\Users\\Agustin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Agustin\\source\\repos\\CarreraGUNA\\CarrerasPy\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Agustin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "projectReferences": {
+            "C:\\Users\\Agustin\\source\\repos\\CarreraGUNA\\CarrerasBackend\\CarrerasBackend.csproj": {
+              "projectPath": "C:\\Users\\Agustin\\source\\repos\\CarreraGUNA\\CarrerasBackend\\CarrerasBackend.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "dependencies": {
+          "Guna.UI2.WinForms": {
+            "target": "Package",
+            "version": "[2.0.2.4, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

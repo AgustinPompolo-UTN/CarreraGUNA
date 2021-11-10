@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "nuKticx4Sk6biaq2PJruj3pQX/+K+FkbLIoIiWPLbmLHvto203UqSqrUJK4T9yYbaBvF7E6AmQxtkCh+hPf3CA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Agustin\\source\\repos\\CarreraGUNA\\CarrerasWebAPI\\CarrerasWebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Agustin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Agustin\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Agustin\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Agustin\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Agustin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Agustin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

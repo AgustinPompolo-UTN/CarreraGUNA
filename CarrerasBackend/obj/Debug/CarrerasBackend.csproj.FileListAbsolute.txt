@@ -1,0 +1,6 @@
+C:\Users\Agustin\Source\Repos\TP-INTEGRADOR--PROGRAMACION-II\CarrerasBackend\bin\Debug\CarrerasBackend.dll
+C:\Users\Agustin\Source\Repos\TP-INTEGRADOR--PROGRAMACION-II\CarrerasBackend\bin\Debug\CarrerasBackend.pdb
+C:\Users\Agustin\Source\Repos\TP-INTEGRADOR--PROGRAMACION-II\CarrerasBackend\obj\Debug\CarrerasBackend.csproj.AssemblyReference.cache
+C:\Users\Agustin\Source\Repos\TP-INTEGRADOR--PROGRAMACION-II\CarrerasBackend\obj\Debug\CarrerasBackend.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\Source\Repos\TP-INTEGRADOR--PROGRAMACION-II\CarrerasBackend\obj\Debug\CarrerasBackend.dll
+C:\Users\Agustin\Source\Repos\TP-INTEGRADOR--PROGRAMACION-II\CarrerasBackend\obj\Debug\CarrerasBackend.pdb

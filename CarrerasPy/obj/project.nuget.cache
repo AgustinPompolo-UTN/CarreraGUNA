@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "H4p2roChDZX8WdgjULaK40MPUdylY5EXE7YIOznusz3xS/zfWzkwyL6Y8jgHcz+W9cT4Bs5Gc0r8PVD8M7hOIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Agustin\\source\\repos\\CarreraGUNA\\CarrerasPy\\CarrerasFrontend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Agustin\\.nuget\\packages\\guna.ui2.winforms\\2.0.2.4\\guna.ui2.winforms.2.0.2.4.nupkg.sha512"
+  ],
+  "logs": []
+}
